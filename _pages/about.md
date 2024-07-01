@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -13,13 +12,11 @@ profile:
     <p>123 your address street</p>
     <p>Cambridge, MA, USA</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a physics graduate student at MIT in the [Kavli Institute for Astrophysics](https://space.mit.edu/), expected to graduate in the summer of 2024, with a deep passion for exploring the high-redshift universe and cosmology. My research interests are centered at radio astronomical observations and their statistical interpretation, where I aim to uncover the mysteries of the early universe through cutting-edge data analysis and innovative methodologies.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My major work involves the Hydrogen Epoch of Reionization Array ([HEAR](https://reionization.org/)), a radio interferometric telescope. This work encompasses comprehensive statisitical inference on large datasets, including one-point statistics and power spectrum analysis, for 21 cm cosmology and line intensity mapping experiments. Recently, I have focused on extracting essential geometrical and tomographic information from 2D radio images using a U-net architecture.
