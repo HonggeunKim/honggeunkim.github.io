@@ -9,3 +9,4 @@ description:
 toc:
   sidebar: left
 ---
+<embed src="https://honggeunkim.github.io/assets/pdf/resume.pdf" width="100%" height="850px"/>
