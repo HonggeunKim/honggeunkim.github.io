@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /research/
 title: research
-description: My research interests focus on developing tools to evaluate various statistical properties of the early universe as observed through radio telescopes. Broadly, I am interested in the formation and evolution of the universe star and galaxy formation, large scale structure, and cosmological data analysis. I am particularly enthusiastic about using machine learning methods to extract cosmological information from intensity mapping experiments, offering a unique perspective for theoretical analysis of observational data. I am also keen on developing computationally efficient codes that enable the simulation of large data volumes within a reasonable timeframe.
+description: My research interests focus on developing tools to evaluate various statistical properties of the early universe as observed through radio telescopes, providing a window into the formation and evolution of the cosmos. I am particularly enthusiastic about using machine learning methods to extract cosmological information from intensity mapping experiments, offering a unique perspective for theoretical analysis of observational data. I am also keen on developing computationally efficient codes that enable the simulation of large data volumes within a reasonable timeframe.
 nav: true
 nav_order: 2
 
@@ -14,7 +14,7 @@ profiles:
     content: research1.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>HERA stripe images that represent intensity maps after removing bright foreground signals at different frequency channels. The bottom image indicates the presence of systematics (red circles) in the observed data</p>
+      <p>HERA stripe images that represent intensity maps after removing bright foreground signals at different frequency channels. The bottom image indicates the presence of systematics (red circles) in the observed data.</p>
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
