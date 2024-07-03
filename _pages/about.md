@@ -8,9 +8,9 @@ profile:
   image: my_photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Cambridge, MA, USA</p>
+    <p>37-602</p>
+    <p>70 Vassar St</p>
+    <p>Cambridge, MA 02139</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
