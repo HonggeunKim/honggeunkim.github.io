@@ -8,7 +8,7 @@ profile:
   image: my_photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>37-602</p>
+    <p>37-602,</p>
     <p>70 Vassar St</p>
     <p>Cambridge, MA 02139</p>
 
