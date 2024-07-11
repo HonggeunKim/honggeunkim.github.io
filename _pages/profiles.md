@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: hera_stripe_H1C_IDR3_wedge_removed.png
+    image: fisher_matrix_wedge_removal_1000nights.png
     content: research1.md
     image_circular: false # crops the image to make it circular
     more_info: >
