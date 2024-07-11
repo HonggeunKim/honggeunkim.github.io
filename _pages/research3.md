@@ -1,0 +1,2 @@
+## Tomographic of 21 cm images using the U-net architecture
+21 cm intensity mapping involves measuring the emission from neutral hydrogen in the early universe, which provides insights into the large-scale structure of the cosmos and the epoch of reionization. I employed the U-Net architecture to extract tomographic information from the images, particularly to obtain details about ionization fields. U-Net is particularly useful because, by segmenting different regions of interest, it can isolate and study specific features in the 21 cm maps.
