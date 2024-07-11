@@ -1,0 +1,2 @@
+## Imaging Data cubes using HERA observations
+Image cubes are crucial in radio astronomy because they allow astronomers to study the spatial and spectral (frequency) properties of astronomical sources simultaneously. An image cube, also known as a data cube, is a three-dimensional dataset where two dimensions represent spatial coordinates (such as right ascension and declination), and the third dimension represents frequency. In this study, I constructed image cubes from HERA Phase I observations and analyzed how systematics impact one-point statistics measurements.
