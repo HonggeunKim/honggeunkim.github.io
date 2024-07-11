@@ -20,4 +20,9 @@ profiles:
     content: research2.md
     image_circular: false # crops the image to make it circular
     more_info: 3D Image cubes constructed from HERA Phase I radio observations
+  - align: right
+    image: prediction_smooth_ground_truth.png
+    content: research3.md
+    image_circular: false # crops the image to make it circular
+    more_info: Ground truth and prediction derived from U-net for the 21 cm image
 ---
