@@ -14,7 +14,7 @@ profiles:
     content: research1.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>HERA stripe images that represent intensity maps after removing bright foreground signals at different frequency channels. The bottom image indicates the presence of systematics (red circles) in the observed data.</p>
+      <p>Fisher matrix results for astrophysical parameters derived from the second and third moments of mock HERA observations</p>
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
