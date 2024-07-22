@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /research/
 title: research
-description: {font-size: 2.0em;} My research interests focus on developing tools to evaluate various statistical properties of the early universe as observed through radio telescopes, providing a window into the formation and evolution of the cosmos. I am particularly enthusiastic about using machine learning methods to extract cosmological information from intensity mapping experiments, offering a unique perspective for theoretical analysis of observational data. I am also keen on developing computationally efficient codes that enable the simulation of large data volumes within a reasonable timeframe.
+description: My research interests focus on developing tools to evaluate various statistical properties of the early universe as observed through radio telescopes, providing a window into the formation and evolution of the cosmos. I am particularly enthusiastic about using machine learning methods to extract cosmological information from intensity mapping experiments, offering a unique perspective for theoretical analysis of observational data. I am also keen on developing computationally efficient codes that enable the simulation of large data volumes within a reasonable timeframe.
 nav: true
 nav_order: 2
 
