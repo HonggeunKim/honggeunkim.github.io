@@ -2,7 +2,7 @@
 layout: post
 title: Segmenting cosmological images using the deep learning technique U-Net
 date: 2024-08-08 08:57:00-0400
-description: an example of a blog post with jupyter notebook
+description:
 tags: formatting jupyter
 categories: sample-posts
 giscus_comments: false
